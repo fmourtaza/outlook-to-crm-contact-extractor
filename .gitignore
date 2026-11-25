@@ -1,0 +1,6 @@
+*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/extract_outlook_contacts.py
+!/prepare_crm_import.py
